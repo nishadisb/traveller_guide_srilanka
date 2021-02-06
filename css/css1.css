@@ -1,0 +1,186 @@
+*{margin: 0; padding: 0;}
+.clearfix{
+	overflow:auto;
+}
+.wrpper{
+margin: 0 auto;
+	width: 1000px;
+}
+
+.top-br{
+	width: 1000px;
+	background:skyblue;
+
+}
+.top-br-links{
+	float: left;
+}
+.top-br-links ul{
+	margin: 15px;
+
+	list-style: inline-block;
+}
+.top-br-links ul li{
+	padding: 0 15px;
+
+	display: inline-block;
+	border-right: 1px solid white;
+}
+.top-br-links ul li:last-child{
+	border:0;
+}
+.site-search{
+	padding:3px 5px 3px 10px; 
+	margin: 15px;
+	float: right;
+	background:white;
+	border-radius: 10px; 
+}
+.site-search input{
+	border:0;
+	float:left;
+}
+.site-search button{
+	
+	background:url(../img/search-mini-512.jpg);
+}
+.logo{
+	margin-top:30px;
+	margin-top:20px;
+	float: left;
+}
+.logo h1{
+	font-size: 48px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-variant:small-caps; 
+}
+.logo p{
+	font-weight: bold;
+
+}
+header .socialmedia {
+	margin-top:30px; 
+	margin-right:20px; 
+	float: right;
+}
+div.brke{
+	
+}
+
+.socialmedia ul{
+	list-style: none;
+
+
+}
+.socialmedia ul li{
+	
+	display: inline;
+}
+.socialmedia ul li a{
+	margin-left: 5px;
+	padding: 5px;
+	background: #444;
+	color:red;
+	display: inline-block;
+	border-radius: 20px;
+
+}
+header .socialmedia ul li a:hover{
+background: orange;
+
+}
+nav{
+	margin-top:20px; 
+	background: #000;
+	background:linear gradient(#3333,#4444,#3333);
+   text-align: center;
+	border-radius:5px; 
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline;
+}
+nav ul li a{
+	color: green;
+	margin: 10px 30px 10px 20px;
+	
+	display: inline-block;
+}
+nav ul li a:hover{
+	color: red;
+}
+div.intro{
+	width:1000px;
+	margin:10px;
+
+
+}
+div.col{
+	margin-left: 10px;
+	width: 238px;
+	float: left;
+}
+
+
+div.intro div.introimg1txt,.introimg2txt{
+	width: 242px;
+	text-decoration: none; 
+	
+}
+div.introimgtxt h1,p{
+	
+	text-decoration: none;
+	display: inline-block; 
+	color: black;
+}
+div.introimgtxt h1{
+	font-size: 30px;
+}
+div.introimgtext.brke{
+
+	margin: 5px;
+	margin-right: 3px;
+	float: right;
+}
+
+
+div.introimg1txt a,.introimg2txt a{
+	
+	color: red;
+	float: right;
+}
+#SearchBtn{
+	
+}
+div.form{
+    
+    
+	
+	margin: 5px;
+	font-family: Noto Sans;
+	font-size:10px;
+	font-weight: 500px;
+	
+}
+
+
+nav table th tr td{
+	padding: 0 15px;
+}
+
+
+
+table,th,td{
+	font-size:30px; 
+}
+
+
+
+
+
+
+
+
